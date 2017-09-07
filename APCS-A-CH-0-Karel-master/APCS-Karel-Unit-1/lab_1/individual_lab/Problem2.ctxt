@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Problem2
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ shuttleRace()
+comment2.params=
+comment2.target=void\ backS()
+comment3.params=
+comment3.target=void\ regS()
+comment4.params=
+comment4.target=void\ rightM2()
+comment5.params=
+comment5.target=void\ leftM2()
+comment6.params=
+comment6.target=void\ move2()
+comment7.params=
+comment7.target=void\ turnRight()
+numComments=8
